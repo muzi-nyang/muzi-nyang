@@ -6,7 +6,8 @@ I’m currently learning JAVA & CS o((>ω< ))o
 ![*'s github stats](https://github-readme-stats.vercel.app/api?username=muzi-nyang&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzi-nyang&layout=compact&theme=radical)
-</div>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 
